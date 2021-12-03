@@ -1,7 +1,0 @@
-basurl = ""
-languageCode = "en-US"
-disqusShortname = ""
-paginate = 5
-
-[params]
-    title = "Example Site"
